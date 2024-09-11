@@ -1,0 +1,5 @@
+Student studentID: 1252352
+Name:  Rob
+Major: Rob
+Average: 100.0
+Grade: A
